@@ -83,6 +83,7 @@ main {
   font-weight: 700;
   background-color: transparent;
   border-style: solid;
+  border-color: black;
 }
 
 .buttons .login {
